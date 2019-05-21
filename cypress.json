@@ -1,0 +1,4 @@
+{
+"integrationFolder":"cypress/specs",
+"baseUrl": "https://wix.com/"
+}

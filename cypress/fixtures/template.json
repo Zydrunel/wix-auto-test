@@ -1,0 +1,11 @@
+{
+	"exact": {
+		"searchString": "Country Singer"
+	},
+	"nonExact": {
+		"searchString": "country"
+	},
+	"empty": {
+		"searchString": "abrakadabra123"
+	}
+}
